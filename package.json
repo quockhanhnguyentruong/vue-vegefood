@@ -1,0 +1,27 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "4.2.1",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "jquery-migrate": "^3.3.2",
+    "pinia": "^2.0.14",
+    "popper.js": "^1.16.1",
+    "uuid": "^8.3.2",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.1"
+  }
+}
